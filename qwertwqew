@@ -1,0 +1,10 @@
+
+
+a = "Ｏ"
+b = "Ｘ"
+m = "[ ][ ][ ]\n[ ][ ][ ]\n[ ][ ][ ]"
+print(m)
+
+for i in range(0,9):
+    print(input())
+    
